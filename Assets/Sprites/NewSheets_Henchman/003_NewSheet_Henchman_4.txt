@@ -1,0 +1,324 @@
+{"frames": {
+
+"009_Hit1_Henchman0000.png":
+{
+	"frame": {"x":0,"y":0,"w":385,"h":226},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":99,"w":385,"h":226},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0001.png":
+{
+	"frame": {"x":387,"y":0,"w":293,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":94,"w":293,"h":238},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0002.png":
+{
+	"frame": {"x":682,"y":0,"w":171,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":45,"w":171,"h":276},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0003.png":
+{
+	"frame": {"x":855,"y":0,"w":225,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":36,"w":225,"h":310},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0004.png":
+{
+	"frame": {"x":1082,"y":0,"w":381,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":97,"w":381,"h":218},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0005.png":
+{
+	"frame": {"x":1465,"y":0,"w":501,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":102,"w":501,"h":216},
+	"sourceSize": {"w":715,"h":440}
+},
+"009_Hit1_Henchman0006.png":
+{
+	"frame": {"x":0,"y":312,"w":539,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":102,"w":539,"h":214},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0000.png":
+{
+	"frame": {"x":541,"y":312,"w":465,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":145,"y":102,"w":465,"h":214},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0001.png":
+{
+	"frame": {"x":1008,"y":312,"w":361,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":103,"w":361,"h":210},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0002.png":
+{
+	"frame": {"x":1371,"y":312,"w":231,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":256,"y":97,"w":231,"h":216},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0003.png":
+{
+	"frame": {"x":1604,"y":312,"w":223,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":99,"w":223,"h":212},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0004.png":
+{
+	"frame": {"x":0,"y":530,"w":353,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":257,"y":89,"w":353,"h":228},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0005.png":
+{
+	"frame": {"x":355,"y":530,"w":477,"h":234},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":91,"w":477,"h":234},
+	"sourceSize": {"w":715,"h":440}
+},
+"010_Hit2_Henchman0006.png":
+{
+	"frame": {"x":834,"y":530,"w":615,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":36,"w":615,"h":296},
+	"sourceSize": {"w":715,"h":440}
+},
+"011_Hit3_Henchman0000.png":
+{
+	"frame": {"x":1451,"y":530,"w":297,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":253,"y":34,"w":297,"h":304},
+	"sourceSize": {"w":935,"h":440}
+},
+"011_Hit3_Henchman0001.png":
+{
+	"frame": {"x":0,"y":836,"w":369,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":93,"w":369,"h":242},
+	"sourceSize": {"w":935,"h":440}
+},
+"011_Hit3_Henchman0002.png":
+{
+	"frame": {"x":371,"y":836,"w":237,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":96,"w":237,"h":238},
+	"sourceSize": {"w":935,"h":440}
+},
+"011_Hit3_Henchman0003.png":
+{
+	"frame": {"x":610,"y":836,"w":363,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":381,"y":103,"w":363,"h":224},
+	"sourceSize": {"w":935,"h":440}
+},
+"011_Hit3_Henchman0004.png":
+{
+	"frame": {"x":975,"y":836,"w":551,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":297,"y":115,"w":551,"h":208},
+	"sourceSize": {"w":935,"h":440}
+},
+"011_Hit3_Henchman0005.png":
+{
+	"frame": {"x":1528,"y":836,"w":503,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":63,"w":503,"h":260},
+	"sourceSize": {"w":935,"h":440}
+},
+"036_KatanaAssemble_Henchman0000.png":
+{
+	"frame": {"x":0,"y":1098,"w":76,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":243,"y":393,"w":76,"h":123},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0001.png":
+{
+	"frame": {"x":78,"y":1098,"w":92,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":236,"y":387,"w":92,"h":129},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0002.png":
+{
+	"frame": {"x":172,"y":1098,"w":130,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":220,"y":333,"w":130,"h":249},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0003.png":
+{
+	"frame": {"x":304,"y":1098,"w":134,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":216,"y":315,"w":134,"h":267},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0004.png":
+{
+	"frame": {"x":440,"y":1098,"w":146,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":275,"w":146,"h":307},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0005.png":
+{
+	"frame": {"x":588,"y":1098,"w":160,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":159,"w":160,"h":423},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0006.png":
+{
+	"frame": {"x":750,"y":1098,"w":172,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":143,"w":172,"h":439},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0007.png":
+{
+	"frame": {"x":924,"y":1098,"w":176,"h":471},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":111,"w":176,"h":471},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0008.png":
+{
+	"frame": {"x":1102,"y":1098,"w":180,"h":471},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":180,"y":111,"w":180,"h":471},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0009.png":
+{
+	"frame": {"x":1284,"y":1098,"w":172,"h":457},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":180,"y":125,"w":172,"h":457},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaAssemble_Henchman0010.png":
+{
+	"frame": {"x":1458,"y":1098,"w":158,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":129,"w":158,"h":453},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0000.png":
+{
+	"frame": {"x":1618,"y":1098,"w":170,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":175,"w":170,"h":351},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0001.png":
+{
+	"frame": {"x":1790,"y":1098,"w":192,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":174,"w":192,"h":347},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0002.png":
+{
+	"frame": {"x":0,"y":1571,"w":228,"h":337},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":183,"w":228,"h":337},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0003.png":
+{
+	"frame": {"x":230,"y":1571,"w":208,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":175,"w":208,"h":349},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0004.png":
+{
+	"frame": {"x":440,"y":1571,"w":212,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":176,"w":212,"h":347},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0005.png":
+{
+	"frame": {"x":654,"y":1571,"w":212,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":165,"w":212,"h":361},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0006.png":
+{
+	"frame": {"x":868,"y":1571,"w":230,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":163,"w":230,"h":361},
+	"sourceSize": {"w":550,"h":715}
+},
+"037_KatanaLoop_Henchman0007.png":
+{
+	"frame": {"x":1100,"y":1571,"w":184,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":189,"y":174,"w":184,"h":347},
+	"sourceSize": {"w":550,"h":715}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "003_NewSheet_Henchman_4.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ba44b0a1de46401c301308986e81213:c7c24fffc3acf6f4b3bfe86f5a37890f:51abe4fa0637c212272ff8cba3231c9b$"
+}
+}

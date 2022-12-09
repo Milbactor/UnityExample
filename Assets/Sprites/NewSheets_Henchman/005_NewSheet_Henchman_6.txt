@@ -1,0 +1,116 @@
+{"frames": {
+
+"013_SuperSlash_V_Henchman0000.png":
+{
+	"frame": {"x":0,"y":0,"w":335,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":602,"w":335,"h":194},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0001.png":
+{
+	"frame": {"x":337,"y":0,"w":343,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":501,"w":343,"h":286},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0002.png":
+{
+	"frame": {"x":682,"y":0,"w":319,"h":456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":337,"w":319,"h":456},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0003.png":
+{
+	"frame": {"x":1003,"y":0,"w":311,"h":510},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":279,"w":311,"h":510},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0004.png":
+{
+	"frame": {"x":1316,"y":0,"w":399,"h":578},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":209,"w":399,"h":578},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0005.png":
+{
+	"frame": {"x":0,"y":580,"w":521,"h":590},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":190,"w":521,"h":590},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0006.png":
+{
+	"frame": {"x":523,"y":580,"w":349,"h":638},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":135,"w":349,"h":638},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0007.png":
+{
+	"frame": {"x":874,"y":580,"w":389,"h":652},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":162,"y":113,"w":389,"h":652},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0008.png":
+{
+	"frame": {"x":1265,"y":580,"w":297,"h":656},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":101,"w":297,"h":656},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0009.png":
+{
+	"frame": {"x":1564,"y":580,"w":329,"h":678},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":91,"w":329,"h":678},
+	"sourceSize": {"w":825,"h":1320}
+},
+"013_SuperSlash_V_Henchman0010.png":
+{
+	"frame": {"x":0,"y":1260,"w":317,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":552,"w":317,"h":214},
+	"sourceSize": {"w":825,"h":1320}
+},
+"038_KatanaThrow_Henchman0005.png":
+{
+	"frame": {"x":319,"y":1260,"w":320,"h":571},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":29,"w":320,"h":571},
+	"sourceSize": {"w":412,"h":619}
+},
+"038_KatanaThrow_Henchman0006.png":
+{
+	"frame": {"x":641,"y":1260,"w":314,"h":581},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":25,"w":314,"h":581},
+	"sourceSize": {"w":412,"h":619}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "005_NewSheet_Henchman_6.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7690922f445fc0c11fc5fed9c0a54245:100bc75ac092e03e0e2cf5e84dd4ef55:51abe4fa0637c212272ff8cba3231c9b$"
+}
+}

@@ -1,0 +1,284 @@
+{"frames": {
+
+"Boss_Hero_Idle2_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":546,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":203,"w":546,"h":740},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00001.png":
+{
+	"frame": {"x":548,"y":0,"w":520,"h":742},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":217,"y":201,"w":520,"h":742},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00002.png":
+{
+	"frame": {"x":1070,"y":0,"w":494,"h":744},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":235,"y":198,"w":494,"h":744},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00003.png":
+{
+	"frame": {"x":1566,"y":0,"w":492,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":220,"y":196,"w":492,"h":746},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00004.png":
+{
+	"frame": {"x":2060,"y":0,"w":498,"h":748},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":214,"y":194,"w":498,"h":748},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00005.png":
+{
+	"frame": {"x":2560,"y":0,"w":498,"h":752},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":190,"w":498,"h":752},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00006.png":
+{
+	"frame": {"x":3060,"y":0,"w":554,"h":752},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":190,"w":554,"h":752},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00007.png":
+{
+	"frame": {"x":0,"y":754,"w":556,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":188,"w":556,"h":754},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00008.png":
+{
+	"frame": {"x":558,"y":754,"w":536,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":187,"w":536,"h":754},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00009.png":
+{
+	"frame": {"x":1096,"y":754,"w":538,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":187,"w":538,"h":754},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00010.png":
+{
+	"frame": {"x":1636,"y":754,"w":540,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":187,"w":540,"h":754},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00011.png":
+{
+	"frame": {"x":2178,"y":754,"w":540,"h":752},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":189,"w":540,"h":752},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00012.png":
+{
+	"frame": {"x":2720,"y":754,"w":540,"h":752},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":190,"w":540,"h":752},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00013.png":
+{
+	"frame": {"x":3262,"y":754,"w":490,"h":750},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":192,"w":490,"h":750},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00014.png":
+{
+	"frame": {"x":0,"y":1510,"w":488,"h":748},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":196,"y":194,"w":488,"h":748},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00015.png":
+{
+	"frame": {"x":490,"y":1510,"w":496,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":196,"w":496,"h":746},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00016.png":
+{
+	"frame": {"x":988,"y":1510,"w":498,"h":744},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":198,"w":498,"h":744},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00017.png":
+{
+	"frame": {"x":1488,"y":1510,"w":504,"h":742},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":200,"w":504,"h":742},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00018.png":
+{
+	"frame": {"x":1994,"y":1510,"w":506,"h":742},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":194,"y":201,"w":506,"h":742},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Idle2_00019.png":
+{
+	"frame": {"x":2502,"y":1510,"w":514,"h":740},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":193,"y":203,"w":514,"h":740},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00001.png":
+{
+	"frame": {"x":3018,"y":1510,"w":552,"h":762},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":203,"w":552,"h":762},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00003.png":
+{
+	"frame": {"x":0,"y":2274,"w":560,"h":768},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":204,"y":184,"w":560,"h":768},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00004.png":
+{
+	"frame": {"x":562,"y":2274,"w":554,"h":770},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":175,"w":554,"h":770},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00005.png":
+{
+	"frame": {"x":1118,"y":2274,"w":560,"h":762},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":177,"w":560,"h":762},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00006.png":
+{
+	"frame": {"x":1680,"y":2274,"w":566,"h":752},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":180,"w":566,"h":752},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00007.png":
+{
+	"frame": {"x":2248,"y":2274,"w":564,"h":744},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":212,"y":181,"w":564,"h":744},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00009.png":
+{
+	"frame": {"x":2814,"y":2274,"w":586,"h":730},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":183,"w":586,"h":730},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00010.png":
+{
+	"frame": {"x":3402,"y":2274,"w":592,"h":736},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":168,"y":183,"w":592,"h":736},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00011.png":
+{
+	"frame": {"x":0,"y":3046,"w":592,"h":742},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":159,"y":183,"w":592,"h":742},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00012.png":
+{
+	"frame": {"x":594,"y":3046,"w":604,"h":748},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":183,"w":604,"h":748},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00013.png":
+{
+	"frame": {"x":1200,"y":3046,"w":622,"h":754},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":183,"w":622,"h":754},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00014.png":
+{
+	"frame": {"x":1824,"y":3046,"w":632,"h":760},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":183,"w":632,"h":760},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00015.png":
+{
+	"frame": {"x":2458,"y":3046,"w":626,"h":764},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":184,"w":626,"h":764},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Hero_Shoot_00016.png":
+{
+	"frame": {"x":3086,"y":3046,"w":644,"h":770},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":183,"w":644,"h":770},
+	"sourceSize": {"w":930,"h":1040}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Boss_Hero_Sheet3.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6fe792bdd44f2c405eef2ddf327008f4:35fde603ba01a0451325effe0454ac83:2731ce517f30e9f5ecff63ba09bf121c$"
+}
+}

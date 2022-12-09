@@ -1,0 +1,124 @@
+{"frames": {
+
+"031_UltimateKatanaAssemble_Hero0000.png":
+{
+	"frame": {"x":0,"y":0,"w":490,"h":395},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":158,"w":490,"h":395},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0001.png":
+{
+	"frame": {"x":492,"y":0,"w":466,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":53,"w":466,"h":523},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0002.png":
+{
+	"frame": {"x":0,"y":525,"w":432,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":72,"w":432,"h":477},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0003.png":
+{
+	"frame": {"x":434,"y":525,"w":378,"h":483},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":90,"w":378,"h":483},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0004.png":
+{
+	"frame": {"x":814,"y":525,"w":330,"h":465},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":108,"w":330,"h":465},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0005.png":
+{
+	"frame": {"x":0,"y":1010,"w":282,"h":447},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":130,"w":282,"h":447},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0006.png":
+{
+	"frame": {"x":284,"y":1010,"w":242,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":138,"w":242,"h":439},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0007.png":
+{
+	"frame": {"x":528,"y":1010,"w":236,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":138,"w":236,"h":439},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0008.png":
+{
+	"frame": {"x":766,"y":1010,"w":252,"h":471},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":106,"w":252,"h":471},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0009.png":
+{
+	"frame": {"x":0,"y":1483,"w":240,"h":515},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":62,"w":240,"h":515},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0010.png":
+{
+	"frame": {"x":242,"y":1483,"w":196,"h":535},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":42,"w":196,"h":535},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0011.png":
+{
+	"frame": {"x":440,"y":1483,"w":196,"h":535},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":42,"w":196,"h":535},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0012.png":
+{
+	"frame": {"x":638,"y":1483,"w":196,"h":535},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":42,"w":196,"h":535},
+	"sourceSize": {"w":550,"h":715}
+},
+"031_UltimateKatanaAssemble_Hero0013.png":
+{
+	"frame": {"x":836,"y":1483,"w":208,"h":547},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":30,"w":208,"h":547},
+	"sourceSize": {"w":550,"h":715}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "005_UltimateAssembleSheet_Hero.png",
+	"format": "RGBA8888",
+	"size": {"w":1146,"h":2030},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:448ca42c11a746a221fcfa85470ef897:2afc418ccea590cb22b44bb24fbd7a86:800dcd0605e4581a872204e333500a39$"
+}
+}

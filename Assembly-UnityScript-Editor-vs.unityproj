@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{F2981D04-B9E8-E44D-4E6F-27EC33264089}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript-Editor</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_0;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>d:/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>d:/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Editor\MakeFolder.js" />
+     <Compile Include="Assets\Editor\MakePrefab.js" />
+     <None Include="Assets\Sprites\Player_Impact\Player_Impact.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\Sprites\Boss_Villain_Sheets\Boss_Villain_3.txt" />
+     <None Include="Assets\Sprites\Others\aura\Aura.txt" />
+     <None Include="Assets\Sprites\NewSheets_Villain\003_NewSheet_Villain_4.txt" />
+     <None Include="Assets\NGUI\ReadMe - 3.6.0.txt" />
+     <None Include="Assets\Shaders\OpaqueUnlit.shader" />
+     <None Include="Assets\Sprites\NewSheets_Villain\005_NewSheet_Villain_6.txt" />
+     <None Include="Assets\Sprites\MainMenu\mainmenuart1.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\002_NewSheet_Henchman_3.txt" />
+     <None Include="Assets\Sprites\level_beach\beach_2.txt" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Sprites\SaveMove_Henchman\Sheets\Samudai_Henchman_Save_Sheet_2.txt" />
+     <None Include="Assets\Sprites\Splash\000_Splash_Samudai.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\Sprites\Samudai_Villain_Save_move_Sheets\Samudai_Villain_Save_move_2.txt" />
+     <None Include="Assets\Sprites\NewSheets_Hero\003_NewSheet_Hero_4.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\TexturePacker\Shaders\OpaqueUnlit.shader" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Sprites\level3_lava\level3.txt" />
+     <None Include="Assets\Sprites\Boss_Villain_Sheets\Boss_Villain_1.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Sprites\level_beach\beach_1.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Sprites\Samudai_Villain_Save_move_Sheets\Samudai_Villain_Save_move_5.txt" />
+     <None Include="Assets\Shaders\TransparentUnlit.shader" />
+     <None Include="Assets\Sprites\Others\Others1.txt" />
+     <None Include="Assets\Sprites\Kiyomi\003_NewSheet_Heroine_4.txt" />
+     <None Include="Assets\2DVLS\Core\Shaders\2DVLS_Diffuse.shader" />
+     <None Include="Assets\2DVLS\READ-ME.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Sprites\Samudai_Hero_Save_move_Sheets\SaveRock.txt" />
+     <None Include="Assets\Sprites\New_Heroine_SaveMove\Heroine_SaveMove.txt" />
+     <None Include="Assets\Sprites\NewSheets_Hero\001_NewSheet_Hero_2.txt" />
+     <None Include="Assets\Sprites\level_bamboo\bamboo_2.txt" />
+     <None Include="Assets\Sprites\Others\New Aura\Aura_Sheet_1.txt" />
+     <None Include="Assets\Sprites\NewSheets_Villain\004_NewSheet_Villain_5.txt" />
+     <None Include="Assets\Sprites\Kiyomi\000_NewSheet_Heroine_1.txt" />
+     <None Include="Assets\TexturePacker\Shaders\TransparentUnlit.shader" />
+     <None Include="Assets\Sprites\level4_ice\icelevel_2.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\001_NewSheet_Henchman_2.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\Sprites\Kiyomi\001_NewSheet_Heroine_2.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Sprites\Boss_Villain_Sheets\Boss_Villain_2.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Sprites\NewSheets_Villain\002_NewSheet_Villain_3.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Sprites\NewSheets_Hero\006_UltimateThrow_Hero.txt" />
+     <None Include="Assets\Sprites\NewSheets_Hero\000_NewSheet_Hero_1.txt" />
+     <None Include="Assets\Shaders\Mask.shader" />
+     <None Include="Assets\2DVLS\Core\Shaders\2DVLS_Cutout (2-Sided).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\Sprites\NewSheets_Villain\001_NewSheet_Villain_2.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Sprites\NewSheets_Hero\002_NewSheet_Hero_3.txt" />
+     <None Include="Assets\Sprites\Samudai_Villain_Save_move_Sheets\Samudai_Villain_Save_move_1.txt" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\003_NewSheet_Henchman_4.txt" />
+     <None Include="Assets\Sprites\Boss_Villain_Sheets\Boss_Villain_4.txt" />
+     <None Include="Assets\Sprites\Samudai_Villain_Save_move_Sheets\Samudai_Villain_Save_move_4.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Sprites\level4_ice\icelevel_1.txt" />
+     <None Include="Assets\2DVLS\Core\Shaders\2DVLS_Light.shader" />
+     <None Include="Assets\2DVLS\Core\Shaders\2DVLS_Diffuse (2-Sided).shader" />
+     <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\Shaders\VertexColor.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\Sprites\NewSheets_Villain\000_NewSheet_Villain_1.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Sprites\level_bamboo\bamboo_1.txt" />
+     <None Include="Assets\Sprites\Level1\Samudai_Level1_Sheet1\Logs\Log.txt" />
+     <None Include="Assets\Sprites\Samudai_Ice\samudaiIce.txt" />
+     <None Include="Assets\Sprites\Kiyomi\002_NewSheet_Heroine_3.txt" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\005_NewSheet_Henchman_6.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\004_NewSheet_Henchman_5.txt" />
+     <None Include="Assets\TexturePacker\Shaders\VertexColor.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\000_NewSheet_Henchman_1.txt" />
+     <None Include="Assets\Sprites\NewSheets_Hero\005_UltimateAssembleSheet_Hero.txt" />
+     <None Include="Assets\Sprites\NewSheets_Hero\004_NewSheet_Hero_5.txt" />
+     <None Include="Assets\GUI\MeinMenu\mainmenu.txt" />
+     <None Include="Assets\2DVLS\Core\Shaders\2DVLS_Cutout.shader" />
+     <None Include="Assets\Sprites\Boss_Hero_Sheets\Boss_Hero_Sheet3.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\Sprites\Samudai_Villain_Save_move_Sheets\Samudai_Villain_Save_move_3.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\Sprites\level_summit\summit_1.txt" />
+     <None Include="Assets\TexturePacker\readme.txt" />
+     <None Include="Assets\Sprites\NewSheets_Henchman\006_NewSheet_Henchman_7.txt" />
+     <None Include="Assets\Sprites\Kiyomi\004_NewSheet_Heroine_5.txt" />
+     <None Include="Assets\Sprites\SaveMove_Henchman\Sheets\Samudai_Henchman_Save_Sheet_1.txt" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\Shaders\MaskedTexture.shader" />
+     <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Sprites\Boss_Hero_Sheets\Boss_Hero_Sheet2.txt" />
+     <None Include="Assets\Sprites\MainMenu\mainmenuart2.txt" />
+ <Reference Include="Assembly-Boo">
+ <HintPath>D:/Samudai/Library/ScriptAssemblies/Assembly-Boo.dll</HintPath>
+ </Reference>
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>D:/Samudai/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>d:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>d:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="Benchy">
+ <HintPath>D:/Samudai/Assets/Benchy/Benchy Util/Benchy.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Cecil">
+ <HintPath>D:/Samudai/Assets/Benchy/BenchyProfiler/Mono.Cecil.dll</HintPath>
+ </Reference>
+ <Reference Include="BenchyEditor">
+ <HintPath>D:/Samudai/Assets/Benchy/Editor/BenchyEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip">
+ <HintPath>D:/Samudai/Assets/Benchy/Editor/Ionic.Zip.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>d:/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-vs.csproj">
+      <Project>{87E41322-4065-3E03-CCAD-83C8A5C12019}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

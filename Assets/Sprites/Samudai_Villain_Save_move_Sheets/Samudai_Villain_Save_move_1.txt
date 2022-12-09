@@ -1,0 +1,52 @@
+{"frames": {
+
+"Samudai_Villain_Save_Move_01.png":
+{
+	"frame": {"x":0,"y":0,"w":430,"h":338},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":430,"h":338},
+	"sourceSize": {"w":430,"h":338}
+},
+"Samudai_Villain_Save_Move_02.png":
+{
+	"frame": {"x":432,"y":0,"w":565,"h":422},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":565,"h":422},
+	"sourceSize": {"w":565,"h":422}
+},
+"Samudai_Villain_Save_Move_03.png":
+{
+	"frame": {"x":999,"y":0,"w":588,"h":465},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":588,"h":465},
+	"sourceSize": {"w":588,"h":465}
+},
+"Samudai_Villain_Save_Move_04.png":
+{
+	"frame": {"x":0,"y":467,"w":683,"h":583},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":683,"h":583},
+	"sourceSize": {"w":683,"h":583}
+},
+"Samudai_Villain_Save_Move_05.png":
+{
+	"frame": {"x":685,"y":467,"w":766,"h":693},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":766,"h":693},
+	"sourceSize": {"w":766,"h":693}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Samudai_Villain_Save_move_1.png",
+	"format": "RGBA8888",
+	"size": {"w":1589,"h":1160},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:93a717fec90dc62ff8525c01db2208dd:471f7c2164591a9f080797f2a6665c34:c581f4c98c1be1a0c3ed237961b1700a$"
+}
+}

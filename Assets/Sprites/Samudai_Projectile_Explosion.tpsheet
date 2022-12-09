@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Samudai_Projectile_Explosion.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:abde33af667f8fb48ef63947b9229dd0:1cb1d1d97f386b3ac6c564da7dffd6db:199637fd6cee85d5f9ac20659d094c80$
+#
+
+Explosion_001;2;1821;225;225;0.5;0.5
+Explosion_002;229;1808;238;238;0.5;0.5
+Explosion_003;469;1796;251;250;0.5;0.5
+Explosion_004;722;1777;271;269;0.5;0.5
+Explosion_005;2;1502;266;273;0.5;0.5
+Explosion_006;270;1485;282;290;0.5;0.5
+Explosion_007;554;1458;313;317;0.5;0.5
+Explosion_008;2;1116;334;340;0.5;0.5
+Explosion_009;338;1110;370;346;0.5;0.5
+Explosion_010;2;749;385;359;0.5;0.5
+Explosion_011;389;660;481;448;0.5;0.5
+Explosion_012;2;189;506;469;0.5;0.5

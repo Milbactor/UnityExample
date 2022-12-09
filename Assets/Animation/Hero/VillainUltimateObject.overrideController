@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VillainUltimateObject
+  m_Controller: {fileID: 9100000, guid: 2e35e45ac4dfd1f44b18250d83a27ebd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8c2cf595b79091d41a72fab3d2440733, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27414497da5407d4f8bc33d7f57bfc9d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b73e37d064f8156449a34ffe7e746265, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b742bc3c3a1f9c841b13a76955d0dac6, type: 2}

@@ -1,0 +1,44 @@
+{"frames": {
+
+"Samudai_Henchman_Ice.png":
+{
+	"frame": {"x":2,"y":2,"w":229,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":322},
+	"sourceSize": {"w":229,"h":322}
+},
+"Samudai_Hero_Ice.png":
+{
+	"frame": {"x":233,"y":2,"w":229,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":322},
+	"sourceSize": {"w":229,"h":322}
+},
+"Samudai_Heroine_Ice.png":
+{
+	"frame": {"x":2,"y":326,"w":229,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":322},
+	"sourceSize": {"w":229,"h":322}
+},
+"Samudai_Villain_Ice.png":
+{
+	"frame": {"x":233,"y":326,"w":229,"h":322},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":322},
+	"sourceSize": {"w":229,"h":322}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "samudaiIce.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1166d7f7386ee897cd8500f257f757ce:548510312e8e7b6de2dbd79620fba78f:15acc4d9e69d58d2efa46eebbd466632$"
+}
+}

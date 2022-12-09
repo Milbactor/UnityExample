@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\geekslothgameswc\Geek Sloth Games\1. Samudai\Code\New folder\4.3port\Samudai\Assets\2DVLS\Core\Light2D.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Rawr2C.cs" Line="1" Column="1" />
+      <File FileName="d:\geekslothgameswc\Geek Sloth Games\1. Samudai\Code\New folder\4.3port\Samudai\Assets\2DVLS\Core\Light2D.cs" Line="1202" Column="46" />
+      <File FileName="Assets\Scripts\BossPlayerC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RawrC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rawr2C.cs" Line="69" Column="29" />
+      <File FileName="Assets\RawrHitBox.cs" Line="31" Column="28" />
+      <File FileName="Assets\Scripts\OneWayPlatformC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HitboxC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FireBallShootC.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DamageC.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

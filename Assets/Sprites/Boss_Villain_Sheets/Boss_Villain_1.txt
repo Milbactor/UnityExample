@@ -1,0 +1,132 @@
+{"frames": {
+
+"Boss_Villain_Idle_00000.png":
+{
+	"frame": {"x":0,"y":0,"w":560,"h":846},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":82,"w":560,"h":846},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00001.png":
+{
+	"frame": {"x":562,"y":0,"w":554,"h":848},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":181,"y":81,"w":554,"h":848},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00002.png":
+{
+	"frame": {"x":1118,"y":0,"w":536,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":80,"w":536,"h":850},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00003.png":
+{
+	"frame": {"x":1656,"y":0,"w":528,"h":852},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":177,"y":78,"w":528,"h":852},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00004.png":
+{
+	"frame": {"x":2186,"y":0,"w":510,"h":854},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":175,"y":76,"w":510,"h":854},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00005.png":
+{
+	"frame": {"x":2698,"y":0,"w":504,"h":856},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":75,"w":504,"h":856},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00006.png":
+{
+	"frame": {"x":3204,"y":0,"w":492,"h":858},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":174,"y":73,"w":492,"h":858},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00007.png":
+{
+	"frame": {"x":0,"y":860,"w":488,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":176,"y":71,"w":488,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00008.png":
+{
+	"frame": {"x":490,"y":860,"w":496,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":178,"y":71,"w":496,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00009.png":
+{
+	"frame": {"x":988,"y":860,"w":496,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":71,"w":496,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00010.png":
+{
+	"frame": {"x":1486,"y":860,"w":498,"h":858},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":73,"w":498,"h":858},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00011.png":
+{
+	"frame": {"x":1986,"y":860,"w":502,"h":856},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":75,"w":502,"h":856},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00012.png":
+{
+	"frame": {"x":2490,"y":860,"w":508,"h":854},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":76,"w":508,"h":854},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00013.png":
+{
+	"frame": {"x":3000,"y":860,"w":518,"h":852},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":78,"w":518,"h":852},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_00014.png":
+{
+	"frame": {"x":3520,"y":860,"w":522,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":183,"y":80,"w":522,"h":850},
+	"sourceSize": {"w":930,"h":1040}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Boss_Villain_1.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6f77869a58e0b34530aef74134f3e03f:5096c0424532b3d835216c4acbc7e2ba:6d917d7829337da58a28f69e05aad941$"
+}
+}

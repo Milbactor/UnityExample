@@ -1,0 +1,92 @@
+{"frames": {
+
+"036_KatanaThrow_Heroine0000.png":
+{
+	"frame": {"x":0,"y":0,"w":358,"h":721},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":75,"w":358,"h":721},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0001.png":
+{
+	"frame": {"x":360,"y":0,"w":352,"h":731},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":47,"w":352,"h":731},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0002.png":
+{
+	"frame": {"x":714,"y":0,"w":360,"h":741},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":46,"w":360,"h":741},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0003.png":
+{
+	"frame": {"x":1076,"y":0,"w":352,"h":751},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":41,"w":352,"h":751},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0004.png":
+{
+	"frame": {"x":1430,"y":0,"w":352,"h":741},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":48,"w":352,"h":741},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0005.png":
+{
+	"frame": {"x":0,"y":753,"w":354,"h":753},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":37,"w":354,"h":753},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0006.png":
+{
+	"frame": {"x":356,"y":753,"w":360,"h":765},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":34,"w":360,"h":765},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0007.png":
+{
+	"frame": {"x":718,"y":753,"w":364,"h":725},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":61,"w":364,"h":725},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0008.png":
+{
+	"frame": {"x":1084,"y":753,"w":368,"h":737},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":51,"w":368,"h":737},
+	"sourceSize": {"w":550,"h":825}
+},
+"036_KatanaThrow_Heroine0009.png":
+{
+	"frame": {"x":1454,"y":753,"w":264,"h":733},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":47,"w":264,"h":733},
+	"sourceSize": {"w":550,"h":825}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "004_NewSheet_Heroine_5.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:36eeeb9433a436e65dc3d41f9442f7a4:570a7403c25ab7aa97dfb2fadeb0e129:a26fcab7b35ee9a64e196bd98884a4f0$"
+}
+}

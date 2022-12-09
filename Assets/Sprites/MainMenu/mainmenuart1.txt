@@ -1,0 +1,36 @@
+{"frames": {
+
+"Samudai_Gate.png":
+{
+	"frame": {"x":2,"y":2,"w":612,"h":1580},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":612,"h":1580},
+	"sourceSize": {"w":612,"h":1580}
+},
+"Samudai_Menu_Front2.png":
+{
+	"frame": {"x":616,"y":2,"w":1065,"h":252},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1065,"h":252},
+	"sourceSize": {"w":1065,"h":252}
+},
+"Samudai_Ship.png":
+{
+	"frame": {"x":1683,"y":2,"w":294,"h":365},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":365},
+	"sourceSize": {"w":294,"h":365}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "mainmenuart1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:10d99cef3da0fa897c390867f945ac8c:841529d19f2df82425fca14efd3463d5:eaacd96ae69fece9bba7ef7289cce51b$"
+}
+}

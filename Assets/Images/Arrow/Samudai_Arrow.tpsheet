@@ -1,0 +1,12 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Samudai_Arrow.png (512 x 200)
+# $TexturePacker:SmartUpdate:5c9089d2a3486903ad61db9b4dcc6558:dbfcad8b0efee3ece93d4a6fdfc356d0:23ee3a5ff8e42de4077434d4d74af8cd$
+#
+
+Samudai_Arrow_1;0;2;286;198;0.5;0.5
+Samudai_Arrow_2;288;2;221;198;0.5;0.5

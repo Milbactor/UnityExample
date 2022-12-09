@@ -1,0 +1,308 @@
+{"frames": {
+
+"014_Hit_Down_Henchman0000.png":
+{
+	"frame": {"x":0,"y":0,"w":272,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":182,"y":228,"w":272,"h":243},
+	"sourceSize": {"w":550,"h":715}
+},
+"014_Hit_Down_Henchman0001.png":
+{
+	"frame": {"x":274,"y":0,"w":256,"h":321},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":227,"w":256,"h":321},
+	"sourceSize": {"w":550,"h":715}
+},
+"014_Hit_Down_Henchman0002.png":
+{
+	"frame": {"x":532,"y":0,"w":178,"h":365},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":185,"y":227,"w":178,"h":365},
+	"sourceSize": {"w":550,"h":715}
+},
+"014_Hit_Down_Henchman0003.png":
+{
+	"frame": {"x":712,"y":0,"w":190,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":222,"w":190,"h":417},
+	"sourceSize": {"w":550,"h":715}
+},
+"014_Hit_Down_Henchman0004.png":
+{
+	"frame": {"x":904,"y":0,"w":286,"h":463},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":225,"w":286,"h":463},
+	"sourceSize": {"w":550,"h":715}
+},
+"014_Hit_Down_Henchman0005.png":
+{
+	"frame": {"x":1192,"y":0,"w":286,"h":475},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":228,"w":286,"h":475},
+	"sourceSize": {"w":550,"h":715}
+},
+"015_Hit_Up_Henchman0000.png":
+{
+	"frame": {"x":1480,"y":0,"w":334,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":229,"w":334,"h":242},
+	"sourceSize": {"w":550,"h":770}
+},
+"015_Hit_Up_Henchman0001.png":
+{
+	"frame": {"x":0,"y":477,"w":316,"h":236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":230,"w":316,"h":236},
+	"sourceSize": {"w":550,"h":770}
+},
+"015_Hit_Up_Henchman0002.png":
+{
+	"frame": {"x":318,"y":477,"w":198,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":167,"y":112,"w":198,"h":356},
+	"sourceSize": {"w":550,"h":770}
+},
+"015_Hit_Up_Henchman0003.png":
+{
+	"frame": {"x":518,"y":477,"w":198,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":166,"y":86,"w":198,"h":380},
+	"sourceSize": {"w":550,"h":770}
+},
+"015_Hit_Up_Henchman0004.png":
+{
+	"frame": {"x":718,"y":477,"w":316,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":37,"w":316,"h":428},
+	"sourceSize": {"w":550,"h":770}
+},
+"015_Hit_Up_Henchman0005.png":
+{
+	"frame": {"x":1036,"y":477,"w":334,"h":448},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":23,"w":334,"h":448},
+	"sourceSize": {"w":550,"h":770}
+},
+"032_UltimateMove2_Henchman0000.png":
+{
+	"frame": {"x":1372,"y":477,"w":150,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":146,"y":31,"w":150,"h":366},
+	"sourceSize": {"w":550,"h":550}
+},
+"032_UltimateMove2_Henchman0001.png":
+{
+	"frame": {"x":1524,"y":477,"w":160,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":29,"w":160,"h":368},
+	"sourceSize": {"w":550,"h":550}
+},
+"032_UltimateMove2_Henchman0002.png":
+{
+	"frame": {"x":1686,"y":477,"w":160,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":28,"w":160,"h":368},
+	"sourceSize": {"w":550,"h":550}
+},
+"032_UltimateMove2_Henchman0003.png":
+{
+	"frame": {"x":1848,"y":477,"w":160,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":31,"w":160,"h":366},
+	"sourceSize": {"w":550,"h":550}
+},
+"033_UltimateMove3_Henchman0000.png":
+{
+	"frame": {"x":0,"y":927,"w":191,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":280,"y":24,"w":191,"h":370},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0001.png":
+{
+	"frame": {"x":193,"y":927,"w":239,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":304,"y":45,"w":239,"h":348},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0002.png":
+{
+	"frame": {"x":434,"y":927,"w":409,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":313,"y":152,"w":409,"h":240},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0003.png":
+{
+	"frame": {"x":845,"y":927,"w":305,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":326,"y":175,"w":305,"h":216},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0004.png":
+{
+	"frame": {"x":1152,"y":927,"w":213,"h":232},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":157,"w":213,"h":232},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0005.png":
+{
+	"frame": {"x":1367,"y":927,"w":311,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":208,"y":159,"w":311,"h":224},
+	"sourceSize": {"w":825,"h":550}
+},
+"033_UltimateMove3_Henchman0006.png":
+{
+	"frame": {"x":1680,"y":927,"w":327,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":192,"y":159,"w":327,"h":216},
+	"sourceSize": {"w":825,"h":550}
+},
+"035_Win_Henchman0000.png":
+{
+	"frame": {"x":0,"y":1299,"w":154,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":23,"w":154,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0001.png":
+{
+	"frame": {"x":156,"y":1299,"w":192,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":19,"w":192,"h":264},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0002.png":
+{
+	"frame": {"x":350,"y":1299,"w":212,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":17,"w":212,"h":266},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0003.png":
+{
+	"frame": {"x":564,"y":1299,"w":210,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":13,"w":210,"h":270},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0004.png":
+{
+	"frame": {"x":776,"y":1299,"w":354,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":11,"w":354,"h":272},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0005.png":
+{
+	"frame": {"x":1132,"y":1299,"w":332,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":13,"w":332,"h":270},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0006.png":
+{
+	"frame": {"x":1466,"y":1299,"w":346,"h":266},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":17,"w":346,"h":266},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0007.png":
+{
+	"frame": {"x":0,"y":1573,"w":362,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":19,"w":362,"h":264},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0008.png":
+{
+	"frame": {"x":364,"y":1573,"w":350,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":350,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0009.png":
+{
+	"frame": {"x":364,"y":1573,"w":350,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":350,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0010.png":
+{
+	"frame": {"x":364,"y":1573,"w":350,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":23,"w":350,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0011.png":
+{
+	"frame": {"x":716,"y":1573,"w":196,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":23,"w":196,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0012.png":
+{
+	"frame": {"x":914,"y":1573,"w":188,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":23,"w":188,"h":260},
+	"sourceSize": {"w":440,"h":330}
+},
+"035_Win_Henchman0013.png":
+{
+	"frame": {"x":1104,"y":1573,"w":180,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":23,"w":180,"h":260},
+	"sourceSize": {"w":440,"h":330}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "002_NewSheet_Henchman_3.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:11294886f03b019692b613b8ff4018a2:4c3d231512a0e795c3bf2b693996c6c2:51abe4fa0637c212272ff8cba3231c9b$"
+}
+}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - Ground
+  - Log
+  - Water
+  - SaveObject
+  - Border
+  - CameraBound
+  - Data
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: players
+  User Layer 9: Ground
+  User Layer 10: background
+  User Layer 11: WaterSurface
+  User Layer 12: Hazard
+  User Layer 13: IgnoreHazard
+  User Layer 14: Light
+  User Layer 15: ignoreEnvironment
+  User Layer 16: Banner
+  User Layer 17: Arrow
+  User Layer 18: BoundsLayer
+  User Layer 19: ignorePlayers
+  User Layer 20: cap
+  User Layer 21: IceLayer
+  User Layer 22: corpse
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Background
+    userID: 2
+    uniqueID: 1682182887
+    locked: 1
+  - name: Middle
+    userID: 1
+    uniqueID: 474741429
+    locked: 0
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    userID: 3
+    uniqueID: 2165106183
+    locked: 0

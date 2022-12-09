@@ -1,0 +1,388 @@
+{"frames": {
+
+"034_KatanaAssemble_Villain0000.png":
+{
+	"frame": {"x":0,"y":0,"w":12,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":240,"y":473,"w":12,"h":51},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0001.png":
+{
+	"frame": {"x":14,"y":0,"w":28,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":233,"y":430,"w":28,"h":95},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0002.png":
+{
+	"frame": {"x":44,"y":0,"w":48,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":392,"w":48,"h":135},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0003.png":
+{
+	"frame": {"x":94,"y":0,"w":60,"h":109},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":223,"y":421,"w":60,"h":109},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0004.png":
+{
+	"frame": {"x":156,"y":0,"w":78,"h":143},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":213,"y":387,"w":78,"h":143},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0005.png":
+{
+	"frame": {"x":236,"y":0,"w":78,"h":167},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":358,"w":78,"h":167},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0006.png":
+{
+	"frame": {"x":316,"y":0,"w":102,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":206,"y":289,"w":102,"h":237},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0007.png":
+{
+	"frame": {"x":420,"y":0,"w":110,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":201,"y":255,"w":110,"h":271},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0008.png":
+{
+	"frame": {"x":532,"y":0,"w":114,"h":309},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":219,"w":114,"h":309},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0009.png":
+{
+	"frame": {"x":648,"y":0,"w":198,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":99,"w":198,"h":429},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0010.png":
+{
+	"frame": {"x":848,"y":0,"w":192,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":130,"w":192,"h":397},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0011.png":
+{
+	"frame": {"x":1042,"y":0,"w":160,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":172,"w":160,"h":355},
+	"sourceSize": {"w":550,"h":715}
+},
+"034_KatanaAssemble_Villain0012.png":
+{
+	"frame": {"x":1204,"y":0,"w":140,"h":323},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":205,"w":140,"h":323},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0000.png":
+{
+	"frame": {"x":1346,"y":0,"w":188,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":90,"w":188,"h":379},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0001.png":
+{
+	"frame": {"x":1346,"y":0,"w":188,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":90,"w":188,"h":379},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0002.png":
+{
+	"frame": {"x":1536,"y":0,"w":240,"h":373},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":95,"w":240,"h":373},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0003.png":
+{
+	"frame": {"x":0,"y":431,"w":226,"h":365},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":226,"h":365},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0004.png":
+{
+	"frame": {"x":0,"y":431,"w":226,"h":365},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":101,"w":226,"h":365},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0005.png":
+{
+	"frame": {"x":228,"y":431,"w":162,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":160,"y":97,"w":162,"h":369},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0006.png":
+{
+	"frame": {"x":392,"y":431,"w":206,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":107,"w":206,"h":355},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0007.png":
+{
+	"frame": {"x":600,"y":431,"w":206,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":114,"w":206,"h":347},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0008.png":
+{
+	"frame": {"x":600,"y":431,"w":206,"h":347},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":114,"w":206,"h":347},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0009.png":
+{
+	"frame": {"x":808,"y":431,"w":196,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":105,"w":196,"h":355},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0010.png":
+{
+	"frame": {"x":1006,"y":431,"w":206,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":116,"w":206,"h":345},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0011.png":
+{
+	"frame": {"x":1006,"y":431,"w":206,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":116,"w":206,"h":345},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0012.png":
+{
+	"frame": {"x":1214,"y":431,"w":168,"h":343},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":119,"w":168,"h":343},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0013.png":
+{
+	"frame": {"x":1384,"y":431,"w":142,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":118,"w":142,"h":345},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0014.png":
+{
+	"frame": {"x":1528,"y":431,"w":178,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":114,"w":178,"h":351},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0015.png":
+{
+	"frame": {"x":1528,"y":431,"w":178,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":114,"w":178,"h":351},
+	"sourceSize": {"w":550,"h":715}
+},
+"035_KatanaLoop_Villain0016.png":
+{
+	"frame": {"x":1708,"y":431,"w":194,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":119,"w":194,"h":349},
+	"sourceSize": {"w":550,"h":715}
+},
+"036_KatanaThrow_Villain0000.png":
+{
+	"frame": {"x":0,"y":802,"w":210,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":29,"w":210,"h":435},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0001.png":
+{
+	"frame": {"x":212,"y":802,"w":212,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":28,"w":212,"h":439},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0002.png":
+{
+	"frame": {"x":426,"y":802,"w":244,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":27,"w":244,"h":445},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0003.png":
+{
+	"frame": {"x":672,"y":802,"w":244,"h":451},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":24,"w":244,"h":451},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0004.png":
+{
+	"frame": {"x":918,"y":802,"w":246,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":28,"w":246,"h":445},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0005.png":
+{
+	"frame": {"x":1166,"y":802,"w":212,"h":451},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":23,"w":212,"h":451},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0006.png":
+{
+	"frame": {"x":1380,"y":802,"w":232,"h":459},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":17,"w":232,"h":459},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0007.png":
+{
+	"frame": {"x":1614,"y":802,"w":234,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":34,"w":234,"h":427},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0008.png":
+{
+	"frame": {"x":0,"y":1263,"w":232,"h":437},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":31,"w":232,"h":437},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0009.png":
+{
+	"frame": {"x":234,"y":1263,"w":212,"h":439},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":29,"w":212,"h":439},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0010.png":
+{
+	"frame": {"x":448,"y":1263,"w":226,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":36,"w":226,"h":431},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0011.png":
+{
+	"frame": {"x":676,"y":1263,"w":228,"h":425},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":39,"w":228,"h":425},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0012.png":
+{
+	"frame": {"x":906,"y":1263,"w":212,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":41,"w":212,"h":419},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0013.png":
+{
+	"frame": {"x":1120,"y":1263,"w":210,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":36,"w":210,"h":423},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0014.png":
+{
+	"frame": {"x":1332,"y":1263,"w":214,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":31,"w":214,"h":427},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0015.png":
+{
+	"frame": {"x":1548,"y":1263,"w":212,"h":435},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":24,"w":212,"h":435},
+	"sourceSize": {"w":330,"h":495}
+},
+"036_KatanaThrow_Villain0016.png":
+{
+	"frame": {"x":1762,"y":1263,"w":212,"h":433},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":22,"w":212,"h":433},
+	"sourceSize": {"w":330,"h":495}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "005_NewSheet_Villain_6.png",
+	"format": "RGBA8888",
+	"size": {"w":1976,"h":1702},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:23dd73b64e4fad6c326644591b69bcd0:2e9f2b4a5ec2027f0d53c4d25fcc7711:153daa339603ab36a36ea0956291b222$"
+}
+}

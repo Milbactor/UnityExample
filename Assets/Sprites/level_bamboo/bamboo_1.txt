@@ -1,0 +1,60 @@
+{"frames": {
+
+"Samudai_Bamboo_Raft.png":
+{
+	"frame": {"x":2,"y":2,"w":240,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":64},
+	"sourceSize": {"w":240,"h":64}
+},
+"Samudai_Bamboo_River1.png":
+{
+	"frame": {"x":244,"y":2,"w":414,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":56},
+	"sourceSize": {"w":414,"h":56}
+},
+"Samudai_Bamboo_River2.png":
+{
+	"frame": {"x":660,"y":2,"w":511,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":511,"h":47},
+	"sourceSize": {"w":511,"h":47}
+},
+"Samudai_Bamboo_River3.png":
+{
+	"frame": {"x":1173,"y":2,"w":734,"h":737},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":734,"h":737},
+	"sourceSize": {"w":734,"h":737}
+},
+"Samudai_Bamboo_River4.png":
+{
+	"frame": {"x":2,"y":741,"w":720,"h":729},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":729},
+	"sourceSize": {"w":720,"h":729}
+},
+"Samudai_Bamboo_River5.png":
+{
+	"frame": {"x":724,"y":741,"w":779,"h":724},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":779,"h":724},
+	"sourceSize": {"w":779,"h":724}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "bamboo_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9efdc84c052500461f11a5fa252f90ab:9be467acc2088c65985b7a31361fa3ae:13de5d1e1e8e9435f4eb26b7b87a2be5$"
+}
+}

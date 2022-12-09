@@ -1,0 +1,44 @@
+{"frames": {
+
+"Samudai_Menu_Back_mountain.png":
+{
+	"frame": {"x":2,"y":2,"w":2420,"h":1358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":222,"w":2420,"h":1358},
+	"sourceSize": {"w":2420,"h":1580}
+},
+"Samudai_Sand1.png":
+{
+	"frame": {"x":2,"y":1362,"w":2420,"h":563},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2420,"h":563},
+	"sourceSize": {"w":2420,"h":563}
+},
+"Samudai_Sand2.png":
+{
+	"frame": {"x":2,"y":1927,"w":2362,"h":359},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2362,"h":359},
+	"sourceSize": {"w":2362,"h":359}
+},
+"Samudai_Sand3.png":
+{
+	"frame": {"x":2,"y":2288,"w":2362,"h":434},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2362,"h":434},
+	"sourceSize": {"w":2362,"h":434}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "mainmenuart2.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:72f350ebb34d32929bb6bd738e1b2b23:2bf90d01d0cb0ac03fead10595cb115e:bc9005a28b99ab1ec75e20e2426bd39f$"
+}
+}

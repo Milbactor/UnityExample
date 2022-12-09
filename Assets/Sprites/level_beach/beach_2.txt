@@ -1,0 +1,36 @@
+{"frames": {
+
+"Samudai_Beach_Mountains1_left.png":
+{
+	"frame": {"x":2,"y":2,"w":702,"h":444},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":702,"h":444},
+	"sourceSize": {"w":702,"h":444}
+},
+"Samudai_Beach_Mountains1_right.png":
+{
+	"frame": {"x":706,"y":2,"w":1310,"h":470},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1310,"h":470},
+	"sourceSize": {"w":1310,"h":470}
+},
+"Samudai_Beach_Mountains2.png":
+{
+	"frame": {"x":2,"y":474,"w":630,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":630,"h":562},
+	"sourceSize": {"w":630,"h":562}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "beach_2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d7e5329650c7d9e5cb5842f766fd6fe8:92a59be6f144567da22f07103469ed6d:a50c8a8abcc9cc3f385353bfb1190f92$"
+}
+}

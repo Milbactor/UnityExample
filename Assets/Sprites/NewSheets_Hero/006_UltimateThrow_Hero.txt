@@ -1,0 +1,68 @@
+{"frames": {
+
+"032_UltimateKatanaThrow_Hero0000.png":
+{
+	"frame": {"x":0,"y":0,"w":356,"h":701},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":0,"w":356,"h":701},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0001.png":
+{
+	"frame": {"x":358,"y":0,"w":358,"h":705},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":0,"w":358,"h":705},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0002.png":
+{
+	"frame": {"x":718,"y":0,"w":352,"h":709},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":0,"w":352,"h":709},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0003.png":
+{
+	"frame": {"x":0,"y":711,"w":322,"h":705},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":10,"w":322,"h":705},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0004.png":
+{
+	"frame": {"x":324,"y":711,"w":332,"h":715},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":0,"w":332,"h":715},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0005.png":
+{
+	"frame": {"x":658,"y":711,"w":346,"h":715},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":0,"w":346,"h":715},
+	"sourceSize": {"w":550,"h":715}
+},
+"032_UltimateKatanaThrow_Hero0006.png":
+{
+	"frame": {"x":1006,"y":711,"w":364,"h":713},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":0,"w":364,"h":713},
+	"sourceSize": {"w":550,"h":715}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "006_UltimateThrow_Hero.png",
+	"format": "RGBA8888",
+	"size": {"w":1372,"h":1426},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e6c43cfd7caa56fc27027d372e5c3284:3dd252dc37443931a260dc7c25f2a747:800dcd0605e4581a872204e333500a39$"
+}
+}

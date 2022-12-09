@@ -1,0 +1,76 @@
+{"frames": {
+
+"Samudai_Beach_Crater.png":
+{
+	"frame": {"x":2,"y":2,"w":1612,"h":321},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1612,"h":321},
+	"sourceSize": {"w":1612,"h":321}
+},
+"Samudai_Beach_FrontRocks_Left.png":
+{
+	"frame": {"x":1616,"y":2,"w":424,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":424,"h":282},
+	"sourceSize": {"w":424,"h":282}
+},
+"Samudai_Beach_FrontRocks_right.png":
+{
+	"frame": {"x":2,"y":325,"w":516,"h":371},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":516,"h":371},
+	"sourceSize": {"w":516,"h":371}
+},
+"Samudai_Beach_Gate.png":
+{
+	"frame": {"x":520,"y":325,"w":838,"h":1053},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":838,"h":1053},
+	"sourceSize": {"w":838,"h":1053}
+},
+"Samudai_Beach_Wave1.png":
+{
+	"frame": {"x":2,"y":1380,"w":1087,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1087,"h":237},
+	"sourceSize": {"w":1087,"h":237}
+},
+"Samudai_Beach_Wave2.png":
+{
+	"frame": {"x":1091,"y":1380,"w":742,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":742,"h":223},
+	"sourceSize": {"w":742,"h":223}
+},
+"Samudai_Beach_Wave3.png":
+{
+	"frame": {"x":2,"y":1619,"w":1060,"h":309},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1060,"h":309},
+	"sourceSize": {"w":1060,"h":309}
+},
+"Samudai_Beach_wave_Back.png":
+{
+	"frame": {"x":1064,"y":1619,"w":856,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":856,"h":46},
+	"sourceSize": {"w":856,"h":46}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "beach_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c4546df9a989d4fa47fdfe4ae305b286:ed97f15e4fcb2ae0d00c2c79c824f349:fbfe6e81b8de17e419f1e771691904c0$"
+}
+}

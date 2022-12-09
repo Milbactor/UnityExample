@@ -1,0 +1,28 @@
+{"frames": {
+
+"Samudai_IceLake_snowFront_Left.png":
+{
+	"frame": {"x":2,"y":2,"w":852,"h":541},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":852,"h":541},
+	"sourceSize": {"w":852,"h":541}
+},
+"Samudai_IceLake_snowFront_right.png":
+{
+	"frame": {"x":2,"y":545,"w":821,"h":641},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":821,"h":641},
+	"sourceSize": {"w":821,"h":641}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "icelevel_2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:52a10f9aaee5b6bc6429b593b8f6bc96:abfbd88b8ca6078c9bc0e7341eeee6e4:40a7f6216c636a23e2ff04934700f3bc$"
+}
+}

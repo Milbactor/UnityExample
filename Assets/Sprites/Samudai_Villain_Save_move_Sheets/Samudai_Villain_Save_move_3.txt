@@ -1,0 +1,28 @@
+{"frames": {
+
+"Samudai_Villain_Save_Move_08.png":
+{
+	"frame": {"x":0,"y":0,"w":943,"h":1132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":943,"h":1132},
+	"sourceSize": {"w":943,"h":1132}
+},
+"Samudai_Villain_Save_Move_09.png":
+{
+	"frame": {"x":945,"y":0,"w":1004,"h":1216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1004,"h":1216},
+	"sourceSize": {"w":1004,"h":1216}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Samudai_Villain_Save_move_3.png",
+	"format": "RGBA8888",
+	"size": {"w":1951,"h":1216},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1d66609d0b38b6d744602865cc39b449:b349f404f5d575c826bc10cb54475fa4:c581f4c98c1be1a0c3ed237961b1700a$"
+}
+}

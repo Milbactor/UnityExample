@@ -1,0 +1,100 @@
+{"frames": {
+
+"Samudai_IceLake_Broken1.png":
+{
+	"frame": {"x":2,"y":2,"w":292,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":160},
+	"sourceSize": {"w":292,"h":160}
+},
+"Samudai_IceLake_Broken2.png":
+{
+	"frame": {"x":296,"y":2,"w":239,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":158},
+	"sourceSize": {"w":239,"h":158}
+},
+"Samudai_IceLake_Broken3.png":
+{
+	"frame": {"x":537,"y":2,"w":279,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":160},
+	"sourceSize": {"w":279,"h":160}
+},
+"Samudai_IceLake_Broken4.png":
+{
+	"frame": {"x":818,"y":2,"w":311,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":311,"h":176},
+	"sourceSize": {"w":311,"h":176}
+},
+"Samudai_IceLake_FrontRocks_Left.png":
+{
+	"frame": {"x":1131,"y":2,"w":449,"h":269},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":449,"h":269},
+	"sourceSize": {"w":449,"h":269}
+},
+"Samudai_IceLake_FrontRocks_Right.png":
+{
+	"frame": {"x":1582,"y":2,"w":429,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":423},
+	"sourceSize": {"w":429,"h":423}
+},
+"Samudai_IceLake_Rocks_1.png":
+{
+	"frame": {"x":2,"y":427,"w":126,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":57},
+	"sourceSize": {"w":126,"h":57}
+},
+"Samudai_IceLake_Rocks_2.png":
+{
+	"frame": {"x":130,"y":427,"w":121,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":73},
+	"sourceSize": {"w":121,"h":73}
+},
+"Samudai_IceLake_Rocks_3.png":
+{
+	"frame": {"x":253,"y":427,"w":310,"h":227},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":310,"h":227},
+	"sourceSize": {"w":310,"h":227}
+},
+"Samudai_IceLake_Rocks_4.png":
+{
+	"frame": {"x":565,"y":427,"w":326,"h":236},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":326,"h":236},
+	"sourceSize": {"w":326,"h":236}
+},
+"Samudai_IceLake_Tree.png":
+{
+	"frame": {"x":2,"y":665,"w":1828,"h":1283},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1828,"h":1283},
+	"sourceSize": {"w":1828,"h":1283}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "icelevel_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:018f174e82ad0a08799cc4ecce9820a4:77a9d439da5702b62b1a8f7f7d3f912e:f44e8e5610a564c46f2f71d62137264a$"
+}
+}

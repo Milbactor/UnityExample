@@ -1,0 +1,28 @@
+{"frames": {
+
+"Samudai_Henchman_Save_Move0012.png":
+{
+	"frame": {"x":2,"y":2,"w":588,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":417,"w":588,"h":190},
+	"sourceSize": {"w":880,"h":770}
+},
+"Samudai_Henchman_Save_Move0013.png":
+{
+	"frame": {"x":2,"y":194,"w":448,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":424,"w":448,"h":172},
+	"sourceSize": {"w":880,"h":770}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Samudai_Henchman_Save_Sheet_2.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3281a373d86c0201118cec7d7d172598:0c9ceebd6cc8b26ad54c97286957d0ce:e0ea0a84549007baf1af4801ef29dc8a$"
+}
+}

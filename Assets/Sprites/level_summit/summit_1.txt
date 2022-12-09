@@ -1,0 +1,44 @@
+{"frames": {
+
+"Samudai_Summit_Crater.png":
+{
+	"frame": {"x":2,"y":2,"w":1716,"h":466},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1716,"h":466},
+	"sourceSize": {"w":1716,"h":466}
+},
+"Samudai_Summit_Gate.png":
+{
+	"frame": {"x":2,"y":470,"w":859,"h":1094},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":859,"h":1094},
+	"sourceSize": {"w":859,"h":1094}
+},
+"Samudai_Summit_RocksFront_left.png":
+{
+	"frame": {"x":863,"y":470,"w":512,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":314},
+	"sourceSize": {"w":512,"h":314}
+},
+"Samudai_Summit_RocksFront_right.png":
+{
+	"frame": {"x":1377,"y":470,"w":596,"h":396},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":596,"h":396},
+	"sourceSize": {"w":596,"h":396}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "summit_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:da9c58e6b96904c6663049b20f8a4349:213a56505590555d85e194834c1d87c6:cb42fc4ab76c7cc0886e70d9e9792a7b$"
+}
+}

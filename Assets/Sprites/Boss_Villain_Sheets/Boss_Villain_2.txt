@@ -1,0 +1,436 @@
+{"frames": {
+
+"Boss_Villain_Idle_2__00000.png":
+{
+	"frame": {"x":0,"y":0,"w":612,"h":846},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":82,"w":612,"h":846},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00001.png":
+{
+	"frame": {"x":614,"y":0,"w":608,"h":848},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":129,"y":81,"w":608,"h":848},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00002.png":
+{
+	"frame": {"x":1224,"y":0,"w":602,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":80,"w":602,"h":850},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00003.png":
+{
+	"frame": {"x":1828,"y":0,"w":586,"h":852},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":78,"w":586,"h":852},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00004.png":
+{
+	"frame": {"x":2416,"y":0,"w":582,"h":852},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":78,"w":582,"h":852},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00005.png":
+{
+	"frame": {"x":3000,"y":0,"w":564,"h":854},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":76,"w":564,"h":854},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00006.png":
+{
+	"frame": {"x":0,"y":856,"w":560,"h":854},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":120,"y":76,"w":560,"h":854},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00007.png":
+{
+	"frame": {"x":562,"y":856,"w":554,"h":856},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":75,"w":554,"h":856},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00008.png":
+{
+	"frame": {"x":1118,"y":856,"w":546,"h":858},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":73,"w":546,"h":858},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00009.png":
+{
+	"frame": {"x":1666,"y":856,"w":546,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":71,"w":546,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00010.png":
+{
+	"frame": {"x":2214,"y":856,"w":548,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":123,"y":71,"w":548,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00011.png":
+{
+	"frame": {"x":2764,"y":856,"w":548,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":71,"w":548,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00012.png":
+{
+	"frame": {"x":3314,"y":856,"w":576,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":71,"w":576,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00013.png":
+{
+	"frame": {"x":0,"y":1718,"w":578,"h":860},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":71,"w":578,"h":860},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00014.png":
+{
+	"frame": {"x":580,"y":1718,"w":568,"h":858},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":73,"w":568,"h":858},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00015.png":
+{
+	"frame": {"x":1150,"y":1718,"w":562,"h":856},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":75,"w":562,"h":856},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00016.png":
+{
+	"frame": {"x":1714,"y":1718,"w":578,"h":854},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":76,"w":578,"h":854},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00017.png":
+{
+	"frame": {"x":2294,"y":1718,"w":600,"h":852},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":98,"y":78,"w":600,"h":852},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00018.png":
+{
+	"frame": {"x":2896,"y":1718,"w":606,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":80,"w":606,"h":850},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Boss_Villain_Idle_2__00019.png":
+{
+	"frame": {"x":0,"y":2580,"w":612,"h":850},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":95,"y":80,"w":612,"h":850},
+	"sourceSize": {"w":930,"h":1040}
+},
+"Spirit__00000.png":
+{
+	"frame": {"x":614,"y":2580,"w":106,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":32,"w":106,"h":170},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00001.png":
+{
+	"frame": {"x":722,"y":2580,"w":106,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":33,"w":106,"h":168},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00002.png":
+{
+	"frame": {"x":830,"y":2580,"w":106,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":35,"w":106,"h":168},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00003.png":
+{
+	"frame": {"x":938,"y":2580,"w":106,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":36,"w":106,"h":168},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00004.png":
+{
+	"frame": {"x":1046,"y":2580,"w":106,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":36,"w":106,"h":170},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00005.png":
+{
+	"frame": {"x":1154,"y":2580,"w":106,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":36,"w":106,"h":170},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00006.png":
+{
+	"frame": {"x":1262,"y":2580,"w":106,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":36,"w":106,"h":172},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00007.png":
+{
+	"frame": {"x":1370,"y":2580,"w":106,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":35,"w":106,"h":172},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00008.png":
+{
+	"frame": {"x":1478,"y":2580,"w":106,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":34,"w":106,"h":170},
+	"sourceSize": {"w":170,"h":230}
+},
+"Spirit__00009.png":
+{
+	"frame": {"x":1586,"y":2580,"w":106,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":34,"w":106,"h":170},
+	"sourceSize": {"w":170,"h":230}
+},
+"Villain_Fireball__00000.png":
+{
+	"frame": {"x":1694,"y":2580,"w":248,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":42,"w":248,"h":348},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00001.png":
+{
+	"frame": {"x":1944,"y":2580,"w":248,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":42,"w":248,"h":348},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00002.png":
+{
+	"frame": {"x":2194,"y":2580,"w":228,"h":368},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":32,"w":228,"h":368},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00003.png":
+{
+	"frame": {"x":2424,"y":2580,"w":206,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":50,"w":206,"h":338},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00004.png":
+{
+	"frame": {"x":2632,"y":2580,"w":206,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":50,"w":206,"h":338},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00005.png":
+{
+	"frame": {"x":2840,"y":2580,"w":200,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":44,"w":200,"h":344},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00006.png":
+{
+	"frame": {"x":3042,"y":2580,"w":196,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":43,"w":196,"h":346},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00007.png":
+{
+	"frame": {"x":3240,"y":2580,"w":196,"h":346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":63,"y":43,"w":196,"h":346},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00008.png":
+{
+	"frame": {"x":3438,"y":2580,"w":200,"h":370},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":61,"y":31,"w":200,"h":370},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00009.png":
+{
+	"frame": {"x":3640,"y":2580,"w":202,"h":358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":37,"w":202,"h":358},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00010.png":
+{
+	"frame": {"x":3844,"y":2580,"w":202,"h":358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":37,"w":202,"h":358},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00011.png":
+{
+	"frame": {"x":0,"y":3432,"w":190,"h":360},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":36,"w":190,"h":360},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00012.png":
+{
+	"frame": {"x":192,"y":3432,"w":214,"h":344},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":44,"w":214,"h":344},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00013.png":
+{
+	"frame": {"x":408,"y":3432,"w":194,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":41,"w":194,"h":350},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00014.png":
+{
+	"frame": {"x":604,"y":3432,"w":194,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":41,"w":194,"h":350},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00015.png":
+{
+	"frame": {"x":800,"y":3432,"w":190,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":42,"w":190,"h":348},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00016.png":
+{
+	"frame": {"x":992,"y":3432,"w":184,"h":338},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":49,"w":184,"h":338},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00017.png":
+{
+	"frame": {"x":1178,"y":3432,"w":184,"h":336},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":50,"w":184,"h":336},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00018.png":
+{
+	"frame": {"x":1364,"y":3432,"w":192,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":54,"w":192,"h":332},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00019.png":
+{
+	"frame": {"x":1558,"y":3432,"w":214,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":42,"w":214,"h":348},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00020.png":
+{
+	"frame": {"x":1558,"y":3432,"w":214,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":42,"w":214,"h":348},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00021.png":
+{
+	"frame": {"x":1774,"y":3432,"w":218,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":41,"w":218,"h":350},
+	"sourceSize": {"w":308,"h":410}
+},
+"Villain_Fireball__00022.png":
+{
+	"frame": {"x":1994,"y":3432,"w":226,"h":352},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":40,"w":226,"h":352},
+	"sourceSize": {"w":308,"h":410}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Boss_Villain_2.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:617c2769a5964d943dcd3ec4a2797a6f:6a6df8d816e692158ae33f171c5ab5a4:6d917d7829337da58a28f69e05aad941$"
+}
+}
